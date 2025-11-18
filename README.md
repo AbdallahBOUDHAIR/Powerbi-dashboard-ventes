@@ -1,20 +1,21 @@
-# 📊 Tableau de bord Power BI – Analyse des ventes
+# Tableau de bord Power BI – Analyse des ventes
 
 Ce projet présente un rapport Power BI que j’ai réalisé à partir de données de ventes.
 
-## 🎯 Objectifs du rapport
+## Objectifs du rapport
 - Suivre l’évolution du chiffre d’affaires
 - Analyser les commandes annulées
 - Visualiser les performances par région et par produit
 - Donner à l’utilisateur des filtres simples (segments, dates, statut, région)
 
-## 🖼️ Aperçu du dashboard
+## Aperçu du dashboard
 
 ### Page 1 – Suivi des ventes
-![Suivi des ventes](img/page1_suivi_ventes.png)
+![Rapport_ventes_page-01](https://github.com/user-attachments/assets/94dbdfea-18d3-4426-b7f6-cf09c2b7e631)
+
 
 ### Page 2 – Commandes annulées
-![Commandes annulées](img/page2_commandes_annulees.png)
+![Rapport_ventes_page-02](https://github.com/user-attachments/assets/eb1b622f-69ba-446c-af87-cbe19c6f3c2b)
 
 
 ## Fonctionnalités Power BI utilisées
